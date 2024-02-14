@@ -1,4 +1,4 @@
-module github.com/btwkenji/animun
+module github.com/kenjitheman/animun
 
 go 1.21.3
 
